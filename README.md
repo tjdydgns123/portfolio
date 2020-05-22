@@ -1,8 +1,9 @@
 # portfolio
-포트폴리오
+
 
 
 1. 대인훼리 여객 시스템 https://agent.dainferry.co.kr
+---------------------------------------------------
 ```
 spring framework
 kendoUI
@@ -47,6 +48,7 @@ select 제외 service 부분에서 자동 처리되도록 설정
 ![transaction](./images/transaction.jpg)
 
 2. spring integration 세틀뱅크 전문시스템
+---------------------------------------
 ``` 
 ip:tcp-connection-factory
 service factory
@@ -72,6 +74,7 @@ seed 암호화 , base64Encoding
 ![serialize](./images/serialize.jpg)
 
 3. 대인훼리 선박 시스템 
+---------------------
 ```
 기존 대인훼리 여객 시스템 Bootstrap 이용하여 반응형으로 재구성
 ZXing.js 바코드스캐너 구현
