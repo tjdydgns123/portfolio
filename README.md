@@ -13,13 +13,13 @@
 ![init](./images/dainferryMain.jpg)
 
 
- kendo Grid 작업 
-  
+kendo Grid 작업 
 ![grid](.images/kendoGrid.jpg)
 
+kendo scheduler
+![scheduler](.images/scheduler.jpg)
 
- 예약화면    
+예약화면    
 ![init](./images/reserve.jpg)
 
- kendo scheduler
- ![scheduler](.images/scheduler.jpg)
+
