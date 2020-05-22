@@ -89,4 +89,8 @@ jQuery-Scanner-Detection 바코드스캐너 연동하여 값읽기 구현
 ```
 ![responsiveGrid](./images/seatDiagram.jpg)
 ![responsiveGrid](./images/seatDiagram2.jpg)
-
+```
+barcode scanner 연동하여 값읽는 부분  jQuery-Scanner-Detection.js 사용
+휴대폰 카메라 인식하여 바코드 읽는 기능 ZXing.js 구현
+```
+![responsiveGrid](./images/barcode.jpg)
