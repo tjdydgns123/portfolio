@@ -14,12 +14,29 @@
 
 
 kendo Grid 작업 
-![grid](.images/kendoGrid.jpg)
+![grid](./images/kendoGrid.jpg)
 
 kendo scheduler
-![scheduler](.images/scheduler.jpg)
+![scheduler](./images/scheduler.jpg)
 
 예약화면    
 ![init](./images/reserve.jpg)
 
+jasper Report 출력물
+![print](./images/print.jpg)
 
+spring-security
+
+```
+url intercept
+```
+![urlIntercept](./images/urlIntercept.jpg)
+```
+login , logout
+```
+![urlIntercept](./images/login_logout.jpg)
+```
+userService 구현
+password 암호화 sha256사용
+```
+![urlIntercept](./images/userService.jpg)
