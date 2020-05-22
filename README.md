@@ -5,4 +5,4 @@
 1. DAINFERRY https://agent.dainferry.co.kr
 
 
-![대인훼리 메인 페이지](./imaegs/dainferryMain.jpg)
+![init](./images/dainferryMain.jpg)
