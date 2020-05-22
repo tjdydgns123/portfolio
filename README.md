@@ -15,11 +15,11 @@
 
  ##kendo Ui Grid 작업 
   
-![init](.images/kendoGrid.jpg)
+!(.images/kendoGrid.jpg)
 
 
  ##예약화면    
 ![init](./images/reserve.jpg)
 
  ##kendo scheduler
- ![init](.images/scheduler.jpg)
+ !(.images/scheduler.jpg)
