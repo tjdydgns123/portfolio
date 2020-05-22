@@ -44,7 +44,7 @@ password 암호화 sha256사용
 'aop 트랜잭션'
 select 제외 service 부분에서 자동 처리되도록 설정
 ```
-![transction](./images/transction.jpg)
+![transaction](./images/transaction.jpg)
 
 2. spring integration 세틀뱅크 전문시스템
 ``` 
