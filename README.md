@@ -61,6 +61,7 @@ ip:tcp-connection-factory
 흐름
 server-factory 생성 -> client msg 송신 -> gateway -> message 역직렬화 -> channelRouter(채널분기)-> channel -> serviceActivator(로직구현)
 -> outchannel -> 직렬화 송신
+lookup-host : false  <-- default : true ( DNS 역조회로 DNS환경이아닌 client와 message송수신시 속도문제에 이슈가 생겨서 false로 설정 )
 ```
 ![tcpFactory](./images/tcpFactory.jpg)
 ![tcpFactory](./images/gateway.jpg)
