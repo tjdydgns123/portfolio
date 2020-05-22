@@ -2,7 +2,7 @@
 포트폴리오
 
 
-1. DAINFERRY https://agent.dainferry.co.kr
+1. 대인훼리 여객 시스템 https://agent.dainferry.co.kr
 ```
 spring framework
 kendoUI
@@ -71,4 +71,22 @@ seed 암호화 , base64Encoding
 ![deserialize](./images/deserialize.jpg)
 ![serialize](./images/serialize.jpg)
 
+3. 대인훼리 선박 시스템 
+```
+기존 대인훼리 여객 시스템 Bootstrap 이용하여 반응형으로 재구성
+ZXing.js 바코드스캐너 구현
+jQuery-Scanner-Detection 바코드스캐너 연동하여 값읽기 구현
+좌석배치도 구현
+```
+기존 main에서 반응형으로 구현
+![responsiveMain](./images/responsiveMain.jpg)
+![sidebar](./images/sidebar.jpg)
+![responsiveGrid](./images/responsiveGrid.jpg)
+```
+좌석배치도 leaflet.js 로구현
+그림 포토샵 사용
+포토샵에서 x, y 좌표 추출해주는 PhotoshopToSpine 사용 (databinding)
+```
+![responsiveGrid](./images/seatDiagram.jpg)
+![responsiveGrid](./images/seatDiagram2.jpg)
 
